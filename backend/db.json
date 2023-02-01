@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Golf GTI",
+      "price": 92.99
+    },
+    {
+      "id": 2,
+      "name": "Tiggo 8",
+      "price": 190.99
+    },
+    {
+      "id": 3,
+      "name": "Dodge Ram 4x4",
+      "price": 398.99
+    },
+    {
+      "name": "Toyota SW4",
+      "price": "323.57",
+      "id": 4
+    }
+  ]
+}
